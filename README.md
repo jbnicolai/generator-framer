@@ -1,6 +1,6 @@
 # generator-framer [![Build Status](https://secure.travis-ci.org/pixelnautic/generator-framer.png?branch=master)](https://travis-ci.org/pixelnautic/generator-framer)
 
-> [Yeoman](http://yeoman.io) generator
+> A [Yeoman](http://yeoman.io) generator for [Framerjs] (http://framerjs.com)
 
 
 ## Getting Started
