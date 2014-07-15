@@ -1,7 +1,7 @@
 {
   "name": "generator-framer",
   "version": "0.0.1",
-  "description": "Yeoman generator",
+  "description": "Scaffold a Framerjs project.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "pixelnautic/generator-framer",
